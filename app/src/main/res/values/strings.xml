@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ratul_details">
+        \nName: Ratul
+        \nAge: 23
+        \nPhone: 01621117420
+    </string>
+
+    <string name="hira_details">
+        \nName: Hira
+        \nAge: 25
+        \nPhone: 0796286654
+    </string>
+
+    <string name="mili_details">
+        \nName: Mili
+        \nAge: 24
+        \nPhone: 01700000000
+    </string>
+
+    <string name="doli_details">
+        \nName: Doli
+        \nAge: 22
+        \nPhone: 0171111111111
+    </string>
+
+    <string name="reza_details">
+        \nName: Reza
+        \nAge: 26
+        \nPhone: 01628267644
+    </string>
+
+    <string name="habib_details">
+        \nName: Habib
+        \nAge: 23
+        \nPhone: 01988833072
+    </string>
+
+    <string name="humayn_details">
+        \nName: Humayn
+        \nAge: 23
+        \nPhone: 01736174866
+    </string>
+    <string name="shuvo_details">
+        \nName: Shuvo
+        \nAge: 23
+        \nPhone: 017222222111
+    </string>
+    <string name="sabuj_details">
+        \nName: Sabuj
+        \nAge: 22
+        \nPhone: 01799999999
+    </string>
+    <string name="sanjida_details">
+        \nName: Sanjida
+        \nAge: 24
+        \nPhone: 01633332222
+    </string>
+    <string name="halima_details">
+        \nName: Halima Srity
+        \nAge: 22
+        \nPhone: 01777777555
+    </string>
+    <string name="Liza_details">
+        \nName: Liza
+        \nAge: 21
+        \nPhone: 01736174866
+    </string>
+    <string name="sunmoon_details">
+        \nName: Sunmoon
+        \nAge: 22
+        \nPhone: 01744444444
+    </string>
+    <string name="urmi_details">
+        \nName: Urmi
+        \nAge: 23
+        \nPhone: 01755555555
+    </string>
+</resources>
